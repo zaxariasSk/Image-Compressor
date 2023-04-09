@@ -1,0 +1,32 @@
+File from: [temp-uploads/97 ÏÎµÏÏÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg]
+
+File to: [uploads/97 ÏÎµÏÏÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/97 ÏÎµÏÏÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg temp-uploads/97 ÏÎµÏÏÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/97 �?ε�?�?εμβριο�? 1984.jpg
+File from: [temp-uploads/96 Î¹Î¿ÏÎ½Î¹Î¿Ï 1984.jpg]
+
+File to: [uploads/96 Î¹Î¿ÏÎ½Î¹Î¿Ï 1984.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/96 Î¹Î¿ÏÎ½Î¹Î¿Ï 1984.jpg temp-uploads/96 Î¹Î¿ÏÎ½Î¹Î¿Ï 1984.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/96 ιο�?νιο�? 1984.jpg
+File from: [temp-uploads/98 Î´ÎµÎºÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg]
+
+File to: [uploads/98 Î´ÎµÎºÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/98 Î´ÎµÎºÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg temp-uploads/98 Î´ÎµÎºÎµÎ¼Î²ÏÎ¹Î¿Ï 1984.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/98 δεκεμβριο�? 1984.jpg
+File from: [temp-uploads/99 Î¼Î±ÏÏÎ¹Î¿Ï 1985.jpg]
+
+File to: [uploads/99 Î¼Î±ÏÏÎ¹Î¿Ï 1985.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/99 Î¼Î±ÏÏÎ¹Î¿Ï 1985.jpg temp-uploads/99 Î¼Î±ÏÏÎ¹Î¿Ï 1985.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/99 μαρ�?ιο�? 1985.jpg

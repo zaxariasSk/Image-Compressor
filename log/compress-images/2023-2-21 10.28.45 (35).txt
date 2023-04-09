@@ -1,0 +1,22 @@
+File from: [temp-uploads/8cff8-spinalongabbq.png]
+
+File to: [uploads/8cff8-spinalongabbq.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\pngquant-bin\vendor\pngquant.exe --quality=60-60 -o uploads/8cff8-spinalongabbq.png temp-uploads/8cff8-spinalongabbq.png
+File from: [temp-uploads/main_8cff8-spinalongabbq.png]
+
+File to: [uploads/main_8cff8-spinalongabbq.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\pngquant-bin\vendor\pngquant.exe --quality=60-60 -o uploads/main_8cff8-spinalongabbq.png temp-uploads/main_8cff8-spinalongabbq.png
+File from: [temp-uploads/7a120-spinalonga.jpg]
+
+File to: [uploads/7a120-spinalonga.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/7a120-spinalonga.jpg temp-uploads/7a120-spinalonga.jpg
+Unrecognized input file format --- perhaps you need -targa

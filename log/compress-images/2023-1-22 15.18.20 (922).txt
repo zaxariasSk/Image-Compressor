@@ -1,0 +1,80 @@
+File from: [temp-uploads/104 Î±ÏÏ-Î¼Î±Ï-Î¹Î¿ÏÎ½.jpg]
+
+File to: [uploads/104 Î±ÏÏ-Î¼Î±Ï-Î¹Î¿ÏÎ½.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/104 Î±ÏÏ-Î¼Î±Ï-Î¹Î¿ÏÎ½.jpg temp-uploads/104 Î±ÏÏ-Î¼Î±Ï-Î¹Î¿ÏÎ½.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/104 α�?ρ-μαρ-ιο�?ν.jpg
+File from: [temp-uploads/105 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ.jpg]
+
+File to: [uploads/105 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/105 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ.jpg temp-uploads/105 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/105 ιο�?λ-α�?γ-�?ε�?.jpg
+File from: [temp-uploads/103 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï.jpg]
+
+File to: [uploads/103 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/103 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï.jpg temp-uploads/103 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/103 ιαν-�?εβ-μαρ.jpg
+File from: [temp-uploads/106 Î¿ÎºÏ Î½Î¿Îµ Î´ÎµÎº 1986.jpg]
+
+File to: [uploads/106 Î¿ÎºÏ Î½Î¿Îµ Î´ÎµÎº 1986.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/106 Î¿ÎºÏ Î½Î¿Îµ Î´ÎµÎº 1986.jpg temp-uploads/106 Î¿ÎºÏ Î½Î¿Îµ Î´ÎµÎº 1986.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/106 οκ�? νοε δεκ 1986.jpg
+File from: [temp-uploads/107 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1987.jpg]
+
+File to: [uploads/107 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1987.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/107 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1987.jpg temp-uploads/107 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1987.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/107 ιαν-�?εβ-μαρ 1987.jpg
+File from: [temp-uploads/108 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1987.jpg]
+
+File to: [uploads/108 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1987.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/108 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1987.jpg temp-uploads/108 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1987.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/108 α�?ρ-μαι-ιο�?ν 1987.jpg
+File from: [temp-uploads/110 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1987.jpg]
+
+File to: [uploads/110 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1987.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/110 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1987.jpg temp-uploads/110 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1987.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/110 οκ�?-νοε-δεκ 1987.jpg
+File from: [temp-uploads/109 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1987.jpg]
+
+File to: [uploads/109 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1987.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/109 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1987.jpg temp-uploads/109 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1987.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/109 ιο�?λ-α�?γ-�?ε�? 1987.jpg
+File from: [temp-uploads/111 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1988.jpg]
+
+File to: [uploads/111 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1988.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/111 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1988.jpg temp-uploads/111 Î¹Î±Î½-ÏÎµÎ²-Î¼Î±Ï 1988.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/111 ιαν-�?εβ-μαρ 1988.jpg
+File from: [temp-uploads/113 Î¹Î¿ÏÎ» Î±ÏÎ³ ÏÎµÏÏ 1989.jpg]
+
+File to: [uploads/113 Î¹Î¿ÏÎ» Î±ÏÎ³ ÏÎµÏÏ 1989.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/113 Î¹Î¿ÏÎ» Î±ÏÎ³ ÏÎµÏÏ 1989.jpg temp-uploads/113 Î¹Î¿ÏÎ» Î±ÏÎ³ ÏÎµÏÏ 1989.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/113 ιο�?λ α�?γ �?ε�?�? 1989.jpg

@@ -1,0 +1,9 @@
+File from: [temp-uploads/dccd3-jeep-renegade---5-doors---automatic---5-seats---1500cc---diesel-fuel.png]
+
+File to: [uploads/dccd3-jeep-renegade---5-doors---automatic---5-seats---1500cc---diesel-fuel.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\pngquant-bin\vendor\pngquant.exe --quality=60-60 -o uploads/dccd3-jeep-renegade---5-doors---automatic---5-seats---1500cc---diesel-fuel.png temp-uploads/dccd3-jeep-renegade---5-doors---automatic---5-seats---1500cc---diesel-fuel.png
+  error: Not a PNG file (libpng failed)
+  error: cannot decode image temp-uploads\dccd3-jeep-renegade---5-doors---automatic---5-seats---1500cc---diesel-fuel.png

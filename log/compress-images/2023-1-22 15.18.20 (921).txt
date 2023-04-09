@@ -1,0 +1,32 @@
+File from: [temp-uploads/01 ÎÎÎ¥Î 54.jpg]
+
+File to: [uploads/01 ÎÎÎ¥Î 54.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/01 ÎÎÎ¥Î 54.jpg temp-uploads/01 ÎÎÎ¥Î 54.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/01 �?�?Υ�? 54.jpg
+File from: [temp-uploads/102 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1985.jpg]
+
+File to: [uploads/102 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1985.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/102 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1985.jpg temp-uploads/102 Î¿ÎºÏ-Î½Î¿Îµ-Î´ÎµÎº 1985.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/102 οκ�?-νοε-δεκ 1985.jpg
+File from: [temp-uploads/100 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1985.jpg]
+
+File to: [uploads/100 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1985.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/100 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1985.jpg temp-uploads/100 Î±ÏÏ-Î¼Î±Î¹-Î¹Î¿ÏÎ½ 1985.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/100 α�?ρ-μαι-ιο�?ν 1985.jpg
+File from: [temp-uploads/101 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1985.jpg]
+
+File to: [uploads/101 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1985.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile uploads/101 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1985.jpg temp-uploads/101 Î¹Î¿ÏÎ»-Î±ÏÎ³-ÏÎµÏ 1985.jpg
+C:\Users\zack\Desktop\projects\img compressor\node_modules\mozjpeg\vendor\cjpeg.exe: can't open temp-uploads/101 ιο�?λ-α�?γ-�?ε�? 1985.jpg
